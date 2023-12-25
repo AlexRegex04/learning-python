@@ -1,0 +1,16 @@
+﻿#Add fruits and test fruit fresh
+
+
+banana = "🍌"
+strawberry =  "🍓"
+kiwi = "🥝"
+
+bananaCount = int(input())
+strawberryCount = int(input())
+kiwiCount = int(input())
+
+banana *= bananaCount
+strawberry *= strawberryCount
+kiwi *= kiwiCount
+
+print(banana+strawberry +kiwi)

@@ -1,0 +1,93 @@
+[
+    {
+        "car_name": "BMW",
+        "color": "red",
+        "age": 5,
+        "speed": 99,
+        "auto_pass": "Y"
+    },
+    {
+        "car_name": "Volvo",
+        "color": "black",
+        "age": 7,
+        "speed": 86,
+        "auto_pass": "Y"
+    },
+    {
+        "car_name": "VW",
+        "color": "gray",
+        "age": 8,
+        "speed": 87,
+        "auto_pass": "N"
+    },
+    {
+        "car_name": "VW",
+        "color": "white",
+        "age": 7,
+        "speed": 88,
+        "auto_pass": "Y"
+    },
+    {
+        "car_name": "Ford",
+        "color": "white",
+        "age": 2,
+        "speed": 111,
+        "auto_pass": "Y"
+    },
+    {
+        "car_name": "VW",
+        "color": "white",
+        "age": 17,
+        "speed": 86,
+        "auto_pass": "Y"
+    },
+    {
+        "car_name": "Tesla",
+        "color": "red",
+        "age": 2,
+        "speed": 103,
+        "auto_pass": "Y"
+    },
+    {
+        "car_name": "BMW",
+        "color": "black",
+        "age": 9,
+        "speed": 87,
+        "auto_pass": "Y"
+    },
+    {
+        "car_name": "Volvo",
+        "color": "gray",
+        "age": 4,
+        "speed": 94,
+        "auto_pass": "N"
+    },
+    {
+        "car_name": "Ford",
+        "color": "white",
+        "age": 11,
+        "speed": 78,
+        "auto_pass": "N"
+    },
+    {
+        "car_name": "Toyota",
+        "color": "gray",
+        "age": 12,
+        "speed": 77,
+        "auto_pass": "N"
+    },
+    {
+        "car_name": "VW",
+        "color": "white",
+        "age": 9,
+        "speed": 85,
+        "auto_pass": "N"
+    },
+    {
+        "car_name": "Toyota",
+        "color": "blue",
+        "age": 6,
+        "speed": 86,
+        "auto_pass": "Y"
+    }
+]

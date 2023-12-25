@@ -1,0 +1,23 @@
+nums = [12, 54, -21, 113]
+nums.sort()
+print(nums)
+print("min= "+str(min(nums)))
+print("max= "+str(max(nums)))
+print(nums[3])
+nums[0] = input("protisthapon")
+print(nums)
+add = nums.append('01768847378')
+print(nums)
+print(add)
+print(len(nums))
+remove = nums.remove(54)
+print(remove)
+print(nums)
+last = nums.pop()
+print(last)
+print("Search = "+str(113 in nums))
+nums2 = ["I", "Love", "U"]
+add_list = nums+nums2
+print(add_list)
+nums.reverse()
+print(nums)

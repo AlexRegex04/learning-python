@@ -1,0 +1,36 @@
+.
+├── Scientific and Numeric/
+│   ├── Matplotlib
+│   ├── SciPy
+│   ├── Scikit-learn
+│   ├── NumPy
+│   ├── Pandas
+│   └── 
+├── Desktop GUI Applications/
+│   ├── Tkinter or Tk
+│   ├── Kivy 
+│   ├── PyQt or Pyside
+│   └── 
+│   
+├── Web Applications
+│   ├── Django 
+│   └── socket
+├── Audio or Video-based Applications
+│   ├── Gstreamer
+│   ├── Pyglet
+│   ├── QT Phonon 
+│   └── 
+│   
+├── 3D CAD Applications
+│   ├── Fandango (Popular )
+│   ├── CAMVOX
+│   ├── HeeksCNC
+│   ├── AnyCAD
+│   ├── RCAM
+│   └── 
+├── Image Processing Application
+│   ├── OpenCV
+│   ├── Pillow
+│   ├── SimpleITK
+│   └── 
+│   

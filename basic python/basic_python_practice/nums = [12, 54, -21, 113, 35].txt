@@ -1,0 +1,5 @@
+﻿nums = [12, 54, -21, 113, 35]
+for num in nums:
+   if num==113:
+     break
+   print(num)
