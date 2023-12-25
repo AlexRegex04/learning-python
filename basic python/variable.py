@@ -1,9 +1,12 @@
 _x = 5435
 print(_x)
+
 # Object Identity
+
 '''
 In Python, every created object identifies uniquely in Python. Python provides the guaranteed that no two objects will have the same identifier. The built-in id() function, is used to identify the object identifier. Consider the following example.
 '''
+
 a = 50
 print(id(a))
 print(id(534))
@@ -42,4 +45,4 @@ print(float_1, float_2)
 print(a, a.imag, a.real)
 
 x = 'rakib'
-print(x[slice(0,1)])
+print(x[slice(0, 1)])
